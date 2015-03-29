@@ -6,3 +6,24 @@ pom.xml.next
 release.properties
 dependency-reduced-pom.xml
 buildNumber.properties
+
+*.class
+
+.project
+.classpath
+.setting.xml
+
+*.db
+test_data/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+spot.xml
+hs_err_pid*
+
+.DS_Store
+.AppleDouble
+.LSOverride
