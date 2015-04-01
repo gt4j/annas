@@ -1,7 +1,5 @@
 # annas
 
-This is the new home of annas.
-
 Written by Sam Wilson and contributors.
 
 The code is licensed under the terms of the
