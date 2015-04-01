@@ -2,6 +2,14 @@
 
 This is the new home of annas.
 
+Written by Sam Wilson and contributors.
+
+The code is licensed under the terms of the
+ * [GNU General Public License (GPL) v3](http://www.gnu.org/licenses/gpl.html) 
+ 
+The content is licensed under the terms of the
+ * [Creative Commons license 3.0 BY](http://creativecommons.org/licenses/by/3.0/)  
+
 ## Introduction
 
 annas is an open source java library that provides data structures and algorithms for work in the field of graphs theory. Currently annas consists of tw packages;
