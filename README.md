@@ -10,7 +10,7 @@ The content is licensed under the terms of the
 
 ## Introduction
 
-annas is an open source java library that provides data structures and algorithms for work in the field of graphs theory. Currently annas consists of tw packages;
+annas is an open source java library that provides data structures and algorithms for work in the field of graphs theory. Currently annas consists of two packages;
 - org.annas.graph - a package providing graph data structures and algorithms
 - org.annas.math - a package containing a range of mathematical function.
 
