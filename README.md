@@ -1,4 +1,4 @@
-# annas
+# annas [![Build Status](https://travis-ci.org/gt4j/annas.svg)](https://travis-ci.org/gt4j/annas)
 
 Written by Sam Wilson and contributors.
 
