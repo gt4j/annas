@@ -68,6 +68,20 @@
 &lt;/dependency&gt;
 </code></pre>
 
+<p>To use a snapshot of annas which contains the lastest features include the location of the snapshot repository in the pom.xml file</p>
+<pre><code>
+&lt;repository>
+    &lt;id&gt;osshr.snapshots&lt;/id&gt;
+    &lt;name&gt;OSSRH Development Snapshot Repository&lt;/name&gt;
+    &lt;url&gt;https://oss.sonatype.org/content/repositories/snapshots/&lt;/url&gt;
+    &lt;releases&gt;
+        &lt;enabled&gt;false&lt;/enabled&gt;
+    &lt;/releases&gt;
+    &lt;snapshots&gt;
+        &lt;enabled&gt;true&lt;/enabled&gt;
+    &lt;/snapshots&gt;
+&lt;/repository&gt;
+</code></pre>
 <h3>
 <a id="simple-use-cases-of-annas" class="anchor" href="#simple-use-cases-of-annas" aria-hidden="true"><span class="octicon octicon-link"></span></a>Simple use cases of annas</h3>
 
