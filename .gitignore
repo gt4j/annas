@@ -15,6 +15,7 @@ buildNumber.properties
 
 *.db
 test_data/
+javadocs/
 .settings/
 
 # Package Files #
